@@ -16,7 +16,9 @@ This is a Streamlit web application to predict whether a person has diabetes bas
 
 How to Run:
 **Clone the Repository:**
+
 git clone https://github.com/priyank1806/diabetes_prediction.git
+
 cd diabetes_prediction
 
 **Run the Application:**
