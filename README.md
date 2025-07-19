@@ -29,13 +29,13 @@ streamlit run diabetes.py
 1. Launch the app using the command above.
 2. Enter required health parameters like:
 
-Pregnancies
-Glucose
-Blood Pressure
-Skin Thickness
-Insulin
-BMI
-Diabetes Pedigree Function
+Pregnancies,
+Glucose,
+Blood Pressure,
+Skin Thickness,
+Insulin,
+BMI,
+Diabetes Pedigree Function,
 Age
 
 3. Click “Predict” to get the result instantly.
