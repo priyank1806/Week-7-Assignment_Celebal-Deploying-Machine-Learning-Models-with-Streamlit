@@ -15,6 +15,7 @@ This is a Streamlit web application to predict whether a person has diabetes bas
 5. Matplotlib / Seaborn (for visualizations)
 
 How to Run:
+
 **Clone the Repository:**
 
 git clone https://github.com/priyank1806/diabetes_prediction.git
